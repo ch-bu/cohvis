@@ -1,5 +1,5 @@
 Django==1.11.4
-gunicorn==19.3.0
+gunicorn==19.5.0
 psycopg2
 django-htmlmin
 djangorestframework
